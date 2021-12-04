@@ -2,22 +2,22 @@
     1.1 OOPS concepts (Data Abstraction, Encapsulation, Inheritance, Polymorphism) (Done)
     1.2 Basic Java constructs like loops and data types (Done)
     1.3 String handling (Done)
-    1.4 Arrays
-    1.5 Multithreading
-    1.6 Exception handling
-    1.7 Generics
-    1.8 Synchronisation
-    1.9 Serialisation & De-serialisation
-    1.10 Concurrent collection
-    1.11 Swing (GUI)
-    1.12 Collection framework 
+    1.4 Multithreading
+    1.5 Exception handling
+    1.6 Generics
+    1.7 Synchronisation
+    1.8 Serialisation & De-serialisation
+    1.9 Concurrent collection
+    1.10 Swing (GUI)
+    1.11 Collection framework 
 
-2. Advanced Java:
-    2.1 JDBC (Java Database Connectivity)
-    2.2 Servlet
-    2.3 JSP
+2. Data Structures and Algorithms
 
-3. Data Structures and Algorithms
+3. Advanced Java:
+    3.1 JDBC (Java Database Connectivity)
+    3.2 Servlet
+    3.3 JSP
+
 
 4. Popular Frameworks:
     4.1 Spring (MVC, Core, JDBC, ORM, AOP)
